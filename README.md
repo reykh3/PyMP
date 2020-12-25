@@ -14,6 +14,7 @@ Still under active development, but yet it has few advantages:
  - [ ] Commands
  - [ ] MOTD (Bedrock only)
  - [ ] Mobs 
+ - [ ] Start
 
 # FAQ:
  - Can I contribute?

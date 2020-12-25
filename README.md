@@ -1,13 +1,4 @@
-<p align="center">
-  <img width="256" style="border-radius:10px;" height="256" src="https://ibb.co/jr3XRYd">
-
-
-<div align="center">
-    <a href="https://discord.gg/SGWCwd6"><img src="https://img.shields.io/discord/705730982338101280?style=flat-square"/></a>
-</div>
-<hr/>
-
-# Podrum
+# PyMP
 Is a Minecraft (Bedrock and Java) server software written in Python.
 Still under active development, but yet it has few advantages:
 

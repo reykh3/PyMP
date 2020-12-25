@@ -20,7 +20,7 @@ Still under active development, but yet it has few advantages:
 ## Features:
  - [ ] World Generation
  - [ ] Networking
- - [x] Commands
+ - [ ] Commands
  - [ ] MOTD (Bedrock only)
  - [ ] Mobs 
 
@@ -31,16 +31,11 @@ Still under active development, but yet it has few advantages:
 ## Running:
 Linux and MacOS (Unix systems):
 ```sh
-python3 -m venv /venv
-./venv/Scripts/activate.sh
-pip3 install -r requirements.txt
-python3 -O src/__main__.py
 ```
 Or you can use Powershell.
 
 Windows:
 ```powershell
-.\start.ps1
 ```
 
 **Not joinable yet**
